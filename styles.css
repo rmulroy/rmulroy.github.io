@@ -45,10 +45,12 @@ body {
 
 .content h1 {
   font-family: "Playfair Display", serif;
+    text-align: center;
 }
 
 .content h2 {
   font-family: "Playfair Display", serif;
+
 }
 
 .content p {
