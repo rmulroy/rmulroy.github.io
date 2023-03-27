@@ -141,7 +141,7 @@ div.content {
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
-  background-color: #393751;
+  background-color: #665275;
   color: #d3d3da;
 }
 
