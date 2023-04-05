@@ -53,6 +53,7 @@ font-variant: small-caps;
 
 .content h2 {
   font-family: "Georgia", serif;
+    text-align: center;
     font-variant: small-caps;
 
 }
