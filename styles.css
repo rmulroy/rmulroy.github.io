@@ -46,23 +46,25 @@ font-variant: small-caps;
 }
 
 .content h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Georgia", serif;
     text-align: center;
+    font-variant: small-caps;
 }
 
 .content h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Georgia", serif;
+    font-variant: small-caps;
 
 }
 
 .content p {
-  font-family: "Didot", serif;
+  font-family: "Courier New", monospace;
   font-size: 130%;
   
 }
 
 .content li {
-  font-family: "Didot", serif;
+  font-family: "Courier New", monospace;
   font-size: 130%;  
 }
 
@@ -115,7 +117,8 @@ div.content {
 
 /* Sidebar links */
 .topnav a {
-  font-family: "Playfair Display", serif;
+  font-family: "Georgia", serif;
+    font-variant: small-caps;
   display: block;
   color: #eeeee4;
   padding: 16px;
@@ -126,7 +129,8 @@ div.content {
 }
 
 #colophon a {
-  font-family: "Playfair Display", serif;
+  font-family: "Georgia", serif;
+    font-variant: small-caps;
   font-size: 100%;
   color: #eeeee4;
   display: block;
