@@ -189,4 +189,10 @@ div.content {
   padding-left: 10px;
   padding-right: 10px;
   }
+    .center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    }
 } 
