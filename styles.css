@@ -58,10 +58,14 @@ font-variant: small-caps;
 
 }
 
+
 .content p {
   font-family: "Courier New", monospace;
   font-size: 130%;
   
+}
+.div {
+    float:left;
 }
 
 .row {
