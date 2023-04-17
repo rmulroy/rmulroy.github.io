@@ -64,9 +64,6 @@ font-variant: small-caps;
   font-size: 130%;
   
 }
-.div {
-    float:left;
-}
 
 .row {
     display: flex;
